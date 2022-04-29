@@ -1,1 +1,2 @@
 # Credit-Card-Fraud-Deteciton
+This project presents and discusses data-driven predictive models for predicting the defaulters among the credit card users. Data used include details like limit balance, age, sex, amount of bill statement, repayment status and amount of previous payment. The paper discusses which variables are the strongest predictors of default, and to make predictions on K-S chart to evaluate which customers will default on their credit card payments
